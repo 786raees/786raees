@@ -79,7 +79,7 @@ JavaScript is my go-to language for creating interactive frontends. Experienced 
 
 ## Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-waqar--khan--raees-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/waqar-khan-raees)
+[![LinkedIn](https://img.shields.io/badge/-786raees-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/786raees)
 
 ## Support
 
